@@ -1,0 +1,62 @@
+{
+    "appetizers": [
+        {
+            "itemName": "Bacon Cheese Fries",
+            "ingredients": ["Melted Cheese", "French Fries", "Bacon"],
+            "description": "French Fries coverd in melted cheese and topped with bacon bits."
+        },
+        {
+            "itemName": "Chicken Tenders",
+            "ingredients": ["Fried chicken tenders"],
+            "description": "Savory fried chicken tenders."
+        }
+    ],
+    "coldSandwiches": [
+        {
+            "itemName": "Ham Sandwich",
+            "ingredients": ["Bread", "Ham", "Lettuce", "cheese"],
+            "description": "A ham sandwich served on a tosty bun."
+        },
+        {
+            "itemName": "Turkey Sandwich",
+            "ingredients": ["Bread", "Turkey", "Lettuce", "cheese"],
+            "description": "A turkey sandwich served on a tosty bun."
+        }
+    ],
+    "hotSandwiches": [
+        {
+            "itemName": "Pizza Sub",
+            "ingredients": ["Sub bun", "Peporoni", "Marinera", "Cheese"],
+            "description": "Pizza on a sub bun."
+        },
+        {
+            "itemName": "Ham and cheese",
+            "ingredients": ["Bread", "Ham", "Lettuce", "cheese"],
+            "description": "Hot ham and melted cheese on a tosty bun"
+        }
+    ],
+    "desserts": [
+        {
+            "itemName": "cookie",
+            "ingredients": ["Orio cookie"],
+            "description": "Every childs favorite a orio cookie straight from the pack"
+        },
+        {
+            "itemName": "Icecream",
+            "ingredients": ["Vanilla Ice Cream"],
+            "description": "Creamy vanilla ice cream"
+        }
+    ],
+    "drinks": [
+        {
+            "itemName": "Dr pepper",
+            "ingredients": ["Dr pepper"],
+            "description": "Bottle of Dr. Pepper"
+        },
+        {
+            "itemName": " Iced Tea",
+            "ingredients": ["Tea Leaves", "Sugar"],
+            "description": "Southern Sweet tea at its best"
+        }
+    ]
+}
