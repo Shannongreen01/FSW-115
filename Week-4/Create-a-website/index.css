@@ -1,0 +1,70 @@
+html {
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-size: 35px;
+  text-align: center;
+}
+.button {
+  margin: auto;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  border-radius: 5px;
+  background-color: lightcyan;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 1em;
+  padding: 5px;
+}
+.button:hover {
+  box-shadow: 8px 8px 2px 1px rgba(0, 0, 255, 0.2);
+  border: 5px solid black;
+}
+
+.submit {
+  position: absolute;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  border-radius: 5px;
+  background-color: lightcyan;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 40px;
+  padding: 5px;
+  margin-top: 50px;
+}
+.submit:hover {
+  border: 5px solid white;
+}
+#Div1 {
+  color: coral;
+  font-size: 1.5em;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 100px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+  margin-top: 150px;
+  margin-right: 195px;
+}
+.nav {
+  float: left;
+  padding: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: white;
+  width: 150px;
+  text-align: center;
+}
+.nav>a {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+}
+.nav>a:hover {
+  color: red;
+  font-size: 25px;
+  text-align: center;
+}
